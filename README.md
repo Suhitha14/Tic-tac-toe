@@ -23,6 +23,4 @@ Play as **O vs X** on a 3×3 grid. The game detects a winner and allows you to r
    - Diagonally
 4. If all 9 boxes fill and no one wins, it’s a **Draw**.
 
----
-
-## Project Structure 📁
+This project increased my understaing of javascript concepts.
